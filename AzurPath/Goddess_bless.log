@@ -1,0 +1,15 @@
+﻿  Goddess_bless.cpp
+d:\oop\azur-path\sprite_class.h(21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(113): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\oop\azur-path\sprite_class.h(117): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\sprite_class.h(128): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop\azur-path\goddess_bless.cpp(541): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Goddess_bless.vcxproj -> D:\OOP\Azur-Path\x64\Debug\Goddess_bless.exe
